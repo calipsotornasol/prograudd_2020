@@ -1,0 +1,30 @@
+Ancud 85.0
+Calbuco 8.0
+Castro 8.0
+Chaiten 1.0
+Chonchi 0.0
+Cochamo 1.0
+Curaco de Velez 0.0
+Dalcahue 6.0
+Fresia 0.0
+Frutillar 12.0
+Futaleufu 1.0
+Hualaihue 4.0
+Llanquihue 6.0
+Los Muermos 2.0
+Maullin 15.0
+Osorno 391.0
+Palena 0.0
+Puerto Montt 193.0
+Puerto Octay 5.0
+Puerto Varas 30.0
+Puqueldon 0.0
+Purranque 66.0
+Puyehue 11.0
+Queilen 0.0
+Quellon 1.0
+Quemchi 14.0
+Quinchao 1.0
+Rio Negro 31.0
+San Juan de la Costa 34.0
+San Pablo 12.0

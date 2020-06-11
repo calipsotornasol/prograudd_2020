@@ -1,0 +1,52 @@
+Alhue 7.0
+Buin 692.0
+Calera de Tango 109.0
+Cerrillos 1123.0
+Cerro Navia 1892.0
+Colina 1742.0
+Conchali 2330.0
+Curacavi 335.0
+El Bosque 2027.0
+El Monte 215.0
+Estacion Central 2617.0
+Huechuraba 1452.0
+Independencia 3359.0
+Isla de Maipo 108.0
+La Cisterna 1185.0
+La Florida 5237.0
+La Granja 2820.0
+La Pintana 3339.0
+La Reina 864.0
+Lampa 1108.0
+Las Condes 2747.0
+Lo Barnechea 1366.0
+Lo Espejo 1491.0
+Lo Prado 1347.0
+Macul 1909.0
+Maipu 4499.0
+Maria Pinto 69.0
+Melipilla 887.0
+Nunoa 2250.0
+Padre Hurtado 484.0
+Paine 347.0
+Pedro Aguirre Cerda 1441.0
+Penaflor 574.0
+Penalolen 4899.0
+Pirque 324.0
+Providencia 1403.0
+Pudahuel 2831.0
+Puente Alto 7939.0
+Quilicura 3546.0
+Quinta Normal 1897.0
+Recoleta 4040.0
+Renca 2180.0
+San Bernardo 3408.0
+San Joaquin 2068.0
+San Jose de Maipo 232.0
+San Miguel 1988.0
+San Pedro 44.0
+San Ramon 1841.0
+Santiago 7089.0
+Talagante 343.0
+Tiltil 134.0
+Vitacura 780.0
